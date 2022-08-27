@@ -1,0 +1,28 @@
+# 1 Trixx
+# Discord bot using ayra api's, costom api to run trixx.
+
+# Main Info
+Type = Discord bot
+Open source = True
+Total Imports = 11
+Included req.txt = False
+
+# Repo info
+Licence = True
+Sponsors = False
+Readme.md = True
+Code of Conduct = True
+
+# Bot info
+Language = Python3
+Discord api wrapper = Discord.py, Somecord & DisCatPy.
+Public bot = Yes
+Database = SSLQ & MongDB
+
+# Security info
+Files cleaned = True
+Encrypted = True
+Data Transfer = True // To MongoDB & SSLQ
+Api = True // Ayra Api using mine ip
+
+# I LOVE YOU
