@@ -1,4 +1,4 @@
-# PersonalTeam Projects (PUBLIC REPO/ PRIVATE REPO)
+# Personal/Team Projects (PUBLIC REPO/ PRIVATE REPO)
 
 **This repository contains:**
 
